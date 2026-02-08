@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Espressif/Student_Project/testing_solid_state_relay/build/CMakeFiles/bootloader
+C:/Espressif/Student_Project/testing_solid_state_relay/build/CMakeFiles/bootloader.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/CMakeFiles/bootloader-complete.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

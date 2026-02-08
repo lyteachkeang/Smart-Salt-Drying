@@ -1,0 +1,2 @@
+source C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader/gdbinit/symbols
+source C:/Espressif/Student_Project/testing_solid_state_relay/build/bootloader/gdbinit/connect
